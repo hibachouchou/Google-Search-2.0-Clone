@@ -1,5 +1,5 @@
 # Google-Search-2.0-Clone
-With React + Vite &amp; Tailwind CSS and Rapid Api(Neo Google Search)
+With React + Vite &amp; Tailwind CSS and Rapid Api(Neo Google Search or Google Search)
 ##
 Search for Images and websites
 
