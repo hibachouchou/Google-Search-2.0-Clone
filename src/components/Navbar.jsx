@@ -28,7 +28,7 @@ export const Navbar = ({ setDarkTheme, darkTheme }) => {
             </>
           )}
         </button>
-      
+
       </div>
       <Search/>
     </div>

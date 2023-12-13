@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useState } from 'react';
 
+
 const ResultContext = createContext();
 const baseUrl = 'https://google-search72.p.rapidapi.com';
 
@@ -15,7 +16,7 @@ export const ResultContextProvider = ({ children }) => {
       const res = await fetch(`${baseUrl}${type}`, {
         method: 'GET',
         headers: {
-          'X-RapidAPI-Key': process.env.REACT_APP_API_KEY,
+          'X-RapidAPI-Key': import.meta.env.VITE_API_KEY,
           'X-RapidAPI-Host': 'google-search72.p.rapidapi.com'
         },
       });

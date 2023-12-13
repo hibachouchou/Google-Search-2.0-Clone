@@ -10,3 +10,5 @@ Search for Images and websites
 
 ## Image Search :
 ![Google Search 2.0 Clone](google2.png)
+
+## Live Demo : https://google-2-serach-clone.netlify.app
