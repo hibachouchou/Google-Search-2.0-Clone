@@ -14,4 +14,4 @@ Search for Images and websites
 
 #### Ressources :
 - https://rapidapi.com/neoscrap-net/api/neo-google-search/ .
-- ttps://rapidapi.com/neoscrap-net/api/google-search72/ .
+- https://rapidapi.com/neoscrap-net/api/google-search72/ .
