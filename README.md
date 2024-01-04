@@ -12,3 +12,6 @@ Search for Images and websites
 ## Image Search :
 ![Google Search 2.0 Clone](google2.png)
 
+#### Ressources :
+- https://rapidapi.com/neoscrap-net/api/neo-google-search/ .
+- ttps://rapidapi.com/neoscrap-net/api/google-search72/ .
